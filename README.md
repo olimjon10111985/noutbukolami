@@ -49,8 +49,8 @@ npm run build
 
 ## Kontakt ma'lumotlari
 Savol yoki takliflar bo'lsa, murojaat qilishingiz mumkin:
-- Telegram: [@sizning_telegram]
-- Telefon: +9989X XXX XX XX
+- Telegram: [@OlimjonErnazarov]
+- Telefon: +99894 177 48 85
 
 ## Mualliflik huquqi
 © 2025 Noutbuk Olami. Barcha huquqlar himoyalangan.
