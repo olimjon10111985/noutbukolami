@@ -1,15 +1,20 @@
 {
   "name": "noutbuk-olami",
   "version": "1.0.0",
-  "description": "Noutbuk olami - Future Laptops",
-  "main": "index.html",
+  "description": "Noutbuk olami - Laptop catalog website",
+  "main": "index.js",
   "scripts": {
-    "start": "serve"
+    "start": "serve",
+    "build": "echo \"Build completed\" && exit 0"
   },
+  "keywords": [
+    "laptop",
+    "catalog",
+    "ecommerce"
+  ],
+  "author": "Olimjon Ernazarov",
+  "license": "MIT",
   "dependencies": {
     "serve": "^14.2.0"
-  },
-  "keywords": ["laptops", "e-commerce", "uzbekistan"],
-  "author": "Noutbuk olami",
-  "license": "MIT"
+  }
 }
