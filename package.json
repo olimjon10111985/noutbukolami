@@ -1,0 +1,15 @@
+{
+  "name": "noutbuk-olami",
+  "version": "1.0.0",
+  "description": "Noutbuk olami - Future Laptops",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "keywords": ["laptops", "e-commerce", "uzbekistan"],
+  "author": "Noutbuk olami",
+  "license": "MIT"
+}
