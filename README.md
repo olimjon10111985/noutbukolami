@@ -35,15 +35,36 @@ Noutbuk Olami - bu noutbuklar va kompyuterlar haqidagi ma'lumotlarni namoyish qi
 - Lucide Icons
 - HTML5 Audio API
 
-## O'rnatish
+## O'rnatish va ishga tushirish
+
+### 1. Dasturni yuklab olish
 ```bash
-# Kerakli paketlarni o'rnatish
+git clone https://github.com/olimjon10111985/noutbukolami.git
+cd noutbukolami
+```
+
+### 2. Kerakli dasturlarni o'rnatish
+```bash
+# Node.js o'rnating (agar yo'q bo'lsa):
+# https://nodejs.org/ (LTS versiyasini yuklab oling)
+
+# Kerakli paketlarni o'rnatish:
 npm install
+```
 
-# Rivojlanish rejimida ishga tushirish
-npm run dev
+### 3. Loyihani ishga tushirish
+```bash
+# Rivojlanish rejimida ishga tushirish:
+npm start
+# yoki
+npx serve
 
-# Tayyor versiya uchun yig'ish
+# Brauzerga o'tish:
+# http://localhost:3000
+```
+
+### 4. Tayyor versiyani yig'ish (ixtiyoriy)
+```bash
 npm run build
 ```
 
